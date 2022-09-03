@@ -5,5 +5,4 @@
 * Technology Stack: MongoDB, Express.js, React.js, Node.js
 
 ## Application Architecture
-![Application Architecture](https://user-images.githubusercontent.com/28856734/188285600-19510589-0ded-46b8-9ad6-05250bd1552a.png)
-
+![Application Architecture](https://user-images.githubusercontent.com/28856734/188285664-09a8dc6c-a11a-4af1-bede-16c398431c97.jpg)
